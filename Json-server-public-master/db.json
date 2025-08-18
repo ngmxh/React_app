@@ -1,0 +1,144 @@
+{
+    "users": [
+        {
+            "id": "f9d70fd8-c403-4c80-9688-869cafe4d2fc",
+            "username": "Admin",
+            "email": "ThuNguyt95@hotmail.com",
+            "password": "123",
+            "fullname": "Phan Trí Dũng",
+            "avatar": "https://cdn.fakercloud.com/avatars/travishines_128.jpg"
+        },
+        {
+            "id": "55a21678-4694-4149-9013-b0e573859718",
+            "username": "MinhHiên81",
+            "email": "ThTrung_Phm@gmail.com",
+            "password": "mLgenpn3JnTkDmD",
+            "fullname": "Đào Hùng Anh",
+            "avatar": "https://cdn.fakercloud.com/avatars/elliotlewis_128.jpg"
+        },
+        {
+            "id": "83a27087-2dd0-41b0-8d5d-3dea5b78d758",
+            "username": "PhươngNam38",
+            "email": "HiYn.@yahoo.com",
+            "password": "SnJP6tP4FlWUr1M",
+            "fullname": "Phan Như Hoa",
+            "avatar": "https://cdn.fakercloud.com/avatars/_williamguerra_128.jpg"
+        },
+        {
+            "id": "dd36b68a-8a9c-45fb-93d6-dbb46f7ff0bf",
+            "username": "QuangHùng40",
+            "email": "cDuy78@yahoo.com",
+            "password": "PM2eKkXTzsYpL1I",
+            "fullname": "Trịnh Hoàng Mỹ",
+            "avatar": "https://cdn.fakercloud.com/avatars/designervzm_128.jpg"
+        },
+        {
+            "id": "d589a5c3-5b7f-4378-b801-4f86d91214af",
+            "username": "ÁiHồng15",
+            "email": "NguytCm_Hong@hotmail.com",
+            "password": "nEKjVZqhkovHTN2",
+            "fullname": "Phạm Ngọc Hoàn",
+            "avatar": "https://cdn.fakercloud.com/avatars/adamnac_128.jpg"
+        }
+    ],
+    "products": [
+        {
+            "product_id": "facad269-fd99-4c4e-ab95-3ac08512168f",
+            "name": "Sleek Soft Fish",
+            "price": "126.00",
+            "description": "Máy xuồng ngọt.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "7cbd5042-92eb-4bc2-8f61-9d42f2cf1c92"
+        },
+        {
+            "product_id": "16968a2d-2118-49cf-a721-68372bf3cb8b",
+            "name": "Handmade Cotton Salad",
+            "price": "763.00",
+            "description": "Vàng vá thuyền.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "4d707792-5fda-47d5-98f5-ed27c0e44245"
+        },
+        {
+            "product_id": "3f000587-841d-4b38-ad9c-4a7de753be8c",
+            "name": "Handcrafted Granite Bike",
+            "price": "773.00",
+            "description": "Nhà không thuê đánh yêu đạp việc.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "e306532a-b499-4746-98ff-9a6f04aea1e4"
+        },
+        {
+            "product_id": "cd1a223f-bca5-4751-8d46-7dff8b908556",
+            "name": "Rustic Cotton Shirt",
+            "price": "831.00",
+            "description": "Chết đập hết được thuyền hàng xanh tui.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "70b8ff86-f5d3-4972-b9a1-7fcbae13f1e7"
+        },
+        {
+            "product_id": "97033d3e-638f-4395-a76a-8fe9960020e4",
+            "name": "Handcrafted Metal Cheese",
+            "price": "549.00",
+            "description": "Bè chìm hết hai khâu ba mây.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "70b8ff86-f5d3-4972-b9a1-7fcbae13f1e7"
+        },
+        {
+            "product_id": "55460032-d29d-44cc-9c0c-63dde2cd6af8",
+            "name": "Handmade Rubber Chips",
+            "price": "152.00",
+            "description": "Tô tô mướn gì thuyền giết lỗi tàu.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "4d707792-5fda-47d5-98f5-ed27c0e44245"
+        },
+        {
+            "product_id": "f6359437-e89e-4b16-8636-855c8954c06d",
+            "name": "Incredible Concrete Salad",
+            "price": "304.00",
+            "description": "Leo thôi chìm thương sáu làm làm đỏ bàn tôi.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "7cbd5042-92eb-4bc2-8f61-9d42f2cf1c92"
+        },
+        {
+            "product_id": "8b1402f3-547b-48f4-8588-31bc48e84c5e",
+            "name": "Small Rubber Table",
+            "price": "113.00",
+            "description": "Thuê tôi chìm bàn thương khâu đồng xe hương chỉ.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "4d707792-5fda-47d5-98f5-ed27c0e44245"
+        },
+        {
+            "product_id": "fc8f73bc-9a1b-47ba-91a4-c7c8ca224003",
+            "name": "Fantastic Steel Chips",
+            "price": "431.00",
+            "description": "Xuồng tô xe bốn việc.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "e306532a-b499-4746-98ff-9a6f04aea1e4"
+        },
+        {
+            "product_id": "3b95b2cc-76d4-4d59-ae98-fcb0749da5d4",
+            "name": "Handmade Wooden Keyboard",
+            "price": "139.00",
+            "description": "Nha xe khoan leo thuyền hàng dép.",
+            "image_url": "http://placeimg.com/400/400",
+            "category_id": "7cbd5042-92eb-4bc2-8f61-9d42f2cf1c92"
+        }
+    ],
+    "categories": [
+        {
+            "category_id": "e306532a-b499-4746-98ff-9a6f04aea1e4",
+            "name": "Clothing"
+        },
+        {
+            "category_id": "4d707792-5fda-47d5-98f5-ed27c0e44245",
+            "name": "Industrial"
+        },
+        {
+            "category_id": "7cbd5042-92eb-4bc2-8f61-9d42f2cf1c92",
+            "name": "Clothing"
+        },
+        {
+            "category_id": "70b8ff86-f5d3-4972-b9a1-7fcbae13f1e7",
+            "name": "Tools"
+        }
+    ]
+}
